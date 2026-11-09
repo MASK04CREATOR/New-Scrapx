@@ -1,0 +1,6 @@
+streamlit>=1.37
+openpyxl
+pymupdf
+pytesseract
+Pillow
+requests
